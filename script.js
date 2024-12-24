@@ -52,6 +52,6 @@ button.addEventListener("click", () => {
 
     // Mostra o texto palavra por palavra
     setTimeout(() => {
-        showText("Que o espírito do Natal encha sua casa de alegria, risos e muito amor! Que a magia das festas traga felicidade para todos os dias. Desejo um Natal iluminado, com muita paz e diversão ao lado de quem você ama. Ho, ho, ho!", 600);
+        showText("Ninguém entende como tudo aconteceu tão rápido, nem mesmo a gente, mas vo^ce foi o mei inesperado mais esperado! Feliz Natal Moça da Fármcia!!!", 600);
     }, 1000);
 });
